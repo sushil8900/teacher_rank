@@ -1,8 +1,11 @@
 // Simulated data for tutors
 const tutors = [
-    { name: "John Doe", topic: "Mathematics", rating: 4.8 },
-    { name: "Jane Smith", topic: "Science", rating: 4.6 },
+    { name: "Abhinay", topic: "Mathematics", rating: 4.8 },
+    { name: "Aarti", topic: "Science", rating: 4.6 },
     { name: "Alice Johnson", topic: "History", rating: 4.9 },
+    { name: "Dr. Mahak", topic: "dbms", rating: 4.8 },
+    { name: "Gate smasher", topic: "software engineering", rating: 5.0 },
+    { name: "Mrs. Harpreet", topic: "data structure", rating: 4.9 },
     // Add more tutor data here
 ];
 
